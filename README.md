@@ -1,5 +1,7 @@
-<h1 align="center"> 🎮 Cubemania 🎮 <h1/>
-  Cubemaina is a game made for PC on Unity in which the player has to navigate a cube across a platform by dodging the hurdles lying in its way.
+<h1 align="center"> 🎮 Cubemania 🎮 
+  <h1/>
+  
+  Cubemania is a game made for PC on Unity in which the player has to navigate a cube across a platform by dodging the hurdles lying in its way.
   
 ## Rules
   
